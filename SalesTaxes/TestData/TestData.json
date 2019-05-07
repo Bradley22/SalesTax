@@ -1,0 +1,117 @@
+﻿[
+  {
+    "Item": [
+      {
+        "Type": "Book",
+        "Qty": 1,
+        "Name": "Book",
+        "Price": 12.49,
+        "Imported": false,
+        "UUID": "b729113c-3518-47c3-a4d8-ca4aa19b85da"
+      },
+      {
+        "Type": "Music",
+        "Qty": 1,
+        "Name": "Music CD",
+        "Price": 14.99,
+        "Imported": false,
+        "UUID": "6e5e15ac-09be-4121-b323-f68c93c13675"
+      },
+      {
+        "Type": "Food",
+        "Qty": 1,
+        "Name": "Chocolate bar",
+        "Price": 0.85,
+        "Imported": false,
+        "UUID": "5751d26f-89e0-4a3c-a22d-822816a88e8b"
+      }
+    ]
+  },
+  {
+    "Item": [
+      {
+        "Type": "Food",
+        "Qty": 1,
+        "Name": "Box of Chocolates",
+        "Price": 10.00,
+        "Imported": true,
+        "UUID": "b729113c-3518-47c3-a4d8-ca4aa19b85da"
+      },
+      {
+        "Type": "Perfume",
+        "Qty": 1,
+        "Name": "Bottle of Perfume",
+        "Price": 47.50,
+        "Imported": true,
+        "UUID": "6e5e15ac-09be-4121-b323-f68c93c13675"
+      }
+    ]
+  },
+  {
+    "Item": [
+      {
+        "Type": "Perfume",
+        "Qty": 1,
+        "Name": "Bottle of Perfume",
+        "Price": 27.99,
+        "Imported": true,
+        "UUID": "6e5e15ac-09be-4121-b323-f68c93c13675"
+      },
+      {
+        "Type": "Perfume",
+        "Qty": 1,
+        "Name": "Bottle of Perfume",
+        "Price": 18.99,
+        "Imported": false,
+        "UUID": "6e5e15ac-09be-4121-b323-f68c93c13675"
+      },
+      {
+        "Type": "Medical",
+        "Qty": 1,
+        "Name": "Packet of Headache Pills",
+        "Price": 9.75,
+        "Imported": false,
+        "UUID": "6e5e15ac-09be-4121-b323-f68c93c13675"
+      },
+      {
+        "Type": "Food",
+        "Qty": 1,
+        "Name": "Box of Chocolates",
+        "Price": 11.25,
+        "Imported": true,
+        "UUID": "b729113c-3518-47c3-a4d8-ca4aa19b85da"
+      }
+    ]
+
+  },
+  {
+    "Item": [
+      {
+        "Type": "Perfume",
+        "Qty": 2,
+        "Name": "Item with 2 Qty",
+        "Price": 11.99,
+        "Imported": false,
+        "UUID": "6e5e15ac-09be-4121-b323-f68c93c13675"
+      },
+      {
+        "Type": "Perfume",
+        "Qty": 1,
+        "Name": "Item with negitive price",
+        "Price": -11.99,
+        "Imported": false,
+        "UUID": "6e5e15ac-09be-4121-b323-f68c93c13675"
+      },
+
+      {
+        "Type": "Food",
+        "Qty": -3,
+        "Name": "Item with negitive Qty",
+        "Price": 11.25,
+        "Imported": false,
+        "UUID": "b729113c-3518-47c3-a4d8-ca4aa19b85da"
+      }
+    ]
+
+  }
+]
